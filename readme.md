@@ -13,7 +13,7 @@ This folder contains a series of short practical MLOps notebooks about ZenML and
 * Use some of the most popular MLOps tools such as ZenML, MLflow, Weights & Biases and many others.
 
 ### Steps
-The series is divided into several lessons :
+The folder is divided into several notebooks :
 
 | 1. ML Pipelines	| 2. Training / Serving	| 3. Data Management	|
 |---------------- | ----------------------| --------------------|
