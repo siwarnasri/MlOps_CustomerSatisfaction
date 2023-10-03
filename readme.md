@@ -23,3 +23,4 @@ The folder is divided into several notebooks :
 
 # 2. MLOps End-to-end Customer Satisfaction Project
 
+Coming soon, in progressive state
