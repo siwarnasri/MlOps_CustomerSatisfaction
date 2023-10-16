@@ -1,4 +1,4 @@
-# 2. MLOps End-to-end Customer Satisfaction Project
+# MLOps End-to-end Customer Satisfaction Project: Predicting how a customer will feel about a product before they even ordered it
 
 ### Problem: 
   For the historical data of a particular customer, we are supposed to predict the rating results for the next order or purchase. We will use the public Brazilian e-commerce dataset from Olist. This dataset contains information about 100,000 orders from 2016 to 2018 placed on different marketplaces in Brazil. Its features allow looking at charges in different dimensions: from order status, price, payment, freight performance to customer location, product attributes and finally written customer reviews. The goal is to predict customer satisfaction for a given order based on attributes such as order status, price, payment, etc. To accomplish this in a real-world scenario, we will use ZenML to create a production-ready pipeline for predicting customer satisfaction for the next order or purchase.
